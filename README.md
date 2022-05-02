@@ -1,4 +1,4 @@
-# 🐚Shell Gaming Dominion Project
+# 🐚🌀 Shell Gaming Dominion Project
 
 🌀SGD[node]
 https://github.com/benjaminwulf/sgd-node
@@ -6,9 +6,7 @@ https://github.com/benjaminwulf/sgd-node
 # 🌀SGD[node] DISCORD:
 https://discord.com/invite/HBbP4Zba
 
-
-(1a)<br>
-SITE
+<b>SITE</b><br>
 <b><i>SHELL GAMING DOMINION</i></b> [copyright 2021-07-04] <br>
 (2a)<br>
 <b>SERVICE</b><br>
@@ -18,8 +16,7 @@ SOFTWARE "SGD[node]" <br>
 LICENSE
 https://www.gnu.org/licenses/gpl-3.0.tex
 
-## Project status
-
+## NFT Project status
 # Hydrogen [RESERVED]
 H1He2
 #239201
@@ -32,7 +29,7 @@ H1He2
 MD6-128
 eb563413cc756956fd7ec362aaedf28f
 
-# Lithium [RESERVED]
+# Lithium [AVAIL]
 Li3
 ?_alias_goes_here_?
 #239203
@@ -40,23 +37,28 @@ MD6-128
 02495e239c532773e2c40898bde2d2ae
 
 # Mercury [RESERVED]
-hgo
+HgO
 #239080
 MD6-128
 640685ce4bfe1c73c9b695593739c178
 
 # Oxygen [RESERVED]
-hgO
+HgO
 #239080
 MD6-128
 e76004de1ac23a8c83e3dc2b8a396014
 
-
-## Getting started 
+# Getting started 
+🌀SGD[node]
 http://linktr.ee/SGD.node
 
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
+
+🐚SGD[1/0]    // Rando GM ordinal assignment and probability
+🌀SGD[hex]    // Random teleport via hex code
+🌀SGD[node]   // 8-color node (red, green, blue, pink, aqua, ylw, org)
+
 
 ## Char[scheme]
 ## base-24
@@ -76,23 +78,18 @@ SGD[time]
 10-DEC- TRADE-BLOC-ERA
 0f-HEX- POST-TRADE-BLOC-ERA
 
-## SGD[space]
-<http://sgd.space> #860086 <https://www.color-hex.com/color/860086>
+## 🐚🌀SGD[space]
+<http://sgd.space> #ff00ff <https://www.color-hex.com/color/ff00ff>
+## 🐚🌀SGD[earth]
 <http://sgd.earth> #fe8000 <https://www.color-hex.com/color/fe8000>
-#ffff00 SGD[ylw] <https://www.color-hex.com/color/ffff00>
-#ff0000 SGD[red] <https://www.color-hex.com/color/ff0000>
-#00ffff SGD[aqua] https://www.color-hex.com/color/00ffff>
-#ffffff SGD[1/0] <https://www.color-hex.com/color/ffffff>
-#0000ff SGD[blue] <https://www.color-hex.com/color/0000ff>
-#00ff00 SGD[green] <https://www.color-hex.com/color/00ff00>
-#ff00ff SGD[pink] https://www.color-hex.com/color/ff00ff>
-#000000 SGD[1/0] https://www.color-hex.com/color/000000>
-
-
-🐚SGD[1/0]    // Ordinal clockwise and probability
-🌀SGD[hex]    // Teleport via hex code
-🌀SGD[node]   // 8-color code (red, green, blue, pink, black, ffffff, aqua, ylw, org)
-ordinal
+SGD[nix] #ffff00 SGD[ylw] <https://www.color-hex.com/color/ffff00>
+<http://sgd.red> #ff0000 SGD[red] <https://www.color-hex.com/color/ff0000>
+SGD[nix] #00ffff SGD[aqua] https://www.color-hex.com/color/00ffff>
+<http://sgdm.ly/ON #ffffff SGD[1/0] <https://www.color-hex.com/color/ffffff>
+<http://sgd.blue> #0000ff SGD[blue] <https://www.color-hex.com/color/0000ff>
+<http://sgd.green> #00ff00 SGD[green] <https://www.color-hex.com/color/00ff00>
+<http://sgd.pink> #ff00ff SGD[pink] https://www.color-hex.com/color/ff00ff>
+<http://sgdm.ly/OFF> #000000 SGD[1/0].off https://www.color-hex.com/color/000000> 
 
 ## Community and Forums
 🌀SGD[red]
@@ -101,11 +98,13 @@ http://sgd.red
 http://sgd.green
 🌀SGD[blue]
 http://sgd.blue
-🌀SGD[pin]
+🌀SGD[pink]
 http://sgd.pink
 🌀SGD[1/0]
-http://sgd.black
+SGD[1]
+http://sgdm.ly
 ON -> PING sgd.black (15.197.142.173): 56 data bytes
+SGD[0]
 OFF -> error-404-not-found
 
 ## GM Portal
