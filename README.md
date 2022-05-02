@@ -75,7 +75,7 @@ Alieǹ
 0f-HEX- POST-TRADE-BLOC-ERA
 
 ## 🐚🌀SGD[space]
-<http://sgd.space> <https://www.color-hex.com/color/ff00ff>
+<http://sgd.space>
 
 ## 🐚🌀SGD[earth]
 <http://sgd.earth>
@@ -99,8 +99,7 @@ SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff> <
 🌀SGD[black] <http://sgd.black> <br>
 
 ##  🐚🌀SGDm[1/0] tunnel via compass coordinates
-
-Random assigned ordinal coordinate <br><
+Random assigned ordinal coordinate <br>
 SGDm[1/0] <http://sgdm.ly> <br>
 Compass coordinates <br>
 SGDm[north] <http://sgdm.im> <br>
