@@ -7,8 +7,8 @@ https://github.com/benjaminwulf/sgd-node
 https://discord.com/invite/HBbP4Zba
 
 <b>SITE</b><br>
-<b><i>SHELL GAMING DOMINION</i></b> [copyright 2021-07-04] <br>
-(2a)<br>
+<b> *SHELL GAMING DOMINION* copyright 2021-07-04* <br>
+<br>
 <b>SERVICE</b><br>
 SGD[node]
 (3a)<br>
@@ -55,7 +55,7 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
-🐚SGD[1/0]    // Rando GM ordinal assignment and probability
+🌀SGD[1/0]    // Rando GM ordinal assignment and probability
 🌀SGD[hex]    // Random teleport via hex code
 🌀SGD[node]   // 8-color node (red, green, blue, pink, aqua, ylw, org)
 
@@ -85,11 +85,11 @@ SGD[time]
 SGD[nix] #ffff00 SGD[ylw] <https://www.color-hex.com/color/ffff00>
 <http://sgd.red> #ff0000 SGD[red] <https://www.color-hex.com/color/ff0000>
 SGD[nix] #00ffff SGD[aqua] https://www.color-hex.com/color/00ffff>
-<http://sgdm.ly/ON #ffffff SGD[1/0] <https://www.color-hex.com/color/ffffff>
+<http://sgdm.black #ffffff SGD[1/0].off <https://www.color-hex.com/color/ffffff>
 <http://sgd.blue> #0000ff SGD[blue] <https://www.color-hex.com/color/0000ff>
 <http://sgd.green> #00ff00 SGD[green] <https://www.color-hex.com/color/00ff00>
 <http://sgd.pink> #ff00ff SGD[pink] https://www.color-hex.com/color/ff00ff>
-<http://sgdm.ly/OFF> #000000 SGD[1/0].off https://www.color-hex.com/color/000000> 
+<http://sgdm.ly> #000000 SGD[1/0].on https://www.color-hex.com/color/000000> 
 
 ## Community and Forums
 🌀SGD[red]
@@ -102,7 +102,7 @@ http://sgd.blue
 http://sgd.pink
 🌀SGD[1/0]
 SGD[1]
-http://sgdm.ly
+http://sgd.black
 ON -> PING sgd.black (15.197.142.173): 56 data bytes
 SGD[0]
 OFF -> error-404-not-found
@@ -118,10 +118,6 @@ http://sgdm.vu
 http://sgdm.yt
 🐚SGD[west]
 http://sgdm.ws
-
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
 
 ## Contributing
 For infomation about contribution email:
