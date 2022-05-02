@@ -52,26 +52,29 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
-🌀SGD[1/0] Random directional ordinal
-🌀SGD[nix] Random teleport via hex code
-🌀SGD[node] 5-color firwall geographical node (red, green, blue, pink, black)
+🌀SGD[1/0] Random directional ordinal <br>
+🌀SGD[nix] Random teleport via hex code <br>
+🌀SGD[node] 5-color firwall geographical node (red, green, blue, pink, black) <br>
 
 
 ## Char[scheme]
-## base-24
-Human
-Humanª
-Huɰan
-Huɰanª
+
+##base-24
+Human <br>
+Humanª <br>
+Huɰan <br>
+Huɰanª <br>
 
 ## base-32
-Ali3ǹ
-Alieǹ
+Ali3ǹ <br>
+Alieǹ <br>
 
 ## 🌀SGD[space] <http://sgd.space>
+
 Space continuum <br>
 
 ## 🌀SGD[earth] <http://sgd.earth>
+
 Numbered Systems and time eras <br>
 01-BIN-NEOLITHIC-REVOLUTION <br>
 007-OCT-PRE-TRADE-BLOC-ERA <br>
