@@ -58,10 +58,40 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
-🐚SGD[1/0]    // ordinal clockwise
-🐚SGD[hex]    // teleport to hex based code
+## Char[scheme]
+## base-24
+Human
+Humanª
+Huɰan
+Huɰanª
 
-🌀SGD[node]    // 8-color code (red, green, blue, pink, black, ffffff, aqua, ylw, org)
+## base-32
+Ali3ǹ
+Alieǹ
+
+## SGD.earth
+SGD[time]
+01-BIN-NEOLITHIC-REVOLUTION
+007-OCT-PRE-TRADE-BLOC-ERA
+10-DEC- TRADE-BLOC-ERA
+0f-HEX- POST-TRADE-BLOC-ERA
+
+## SGD[space]
+<http://sgd.space> #860086 <https://www.color-hex.com/color/860086>
+<http://sgd.earth> #fe8000 <https://www.color-hex.com/color/fe8000>
+#ffff00 SGD[ylw] <https://www.color-hex.com/color/ffff00>
+#ff0000 SGD[red] <https://www.color-hex.com/color/ff0000>
+#00ffff SGD[aqua] https://www.color-hex.com/color/00ffff>
+#ffffff SGD[1/0] <https://www.color-hex.com/color/ffffff>
+#0000ff SGD[blue] <https://www.color-hex.com/color/0000ff>
+#00ff00 SGD[green] <https://www.color-hex.com/color/00ff00>
+#ff00ff SGD[pink] https://www.color-hex.com/color/ff00ff>
+#000000 SGD[1/0] https://www.color-hex.com/color/000000>
+
+
+🐚SGD[1/0]    // Ordinal clockwise and probability
+🌀SGD[hex]    // Teleport via hex code
+🌀SGD[node]   // 8-color code (red, green, blue, pink, black, ffffff, aqua, ylw, org)
 ordinal
 
 ## Community and Forums
@@ -79,7 +109,7 @@ ON -> PING sgd.black (15.197.142.173): 56 data bytes
 OFF -> error-404-not-found
 
 ## GM Portal
-##  🐚🌀SGD[1/0] //
+##  🐚🌀SGD[1/0]
 http://sgdm.ly distributes at random to participating ordinal servers.
 🐚SGD[north]
 http://sgdm.im
@@ -90,12 +120,6 @@ http://sgdm.yt
 🐚SGD[west]
 http://sgdm.ws
 
-🐚🌀SGD[hex]
-http://sgdm.cc
-
-
-🐚SGD[hex]
-http://sgdm.cc
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
