@@ -3,16 +3,13 @@
 🌀SGD[node]
 https://github.com/benjaminwulf/sgd-node
 
-# 🌀SGD[node] DISCORD:
+🌀SGD[node] DISCORD:
 https://discord.com/invite/HBbP4Zba
 
-<b>SITE</b><br>
-<b> SHELL GAMING DOMINION copyright 2021-07-04 <br>
-<br>
-<b>SERVICE</b><br>
-SGD[node]
-(3a)<br>
-SOFTWARE "SGD[node]" <br>
+SITE</br>
+*SHELL GAMING DOMINION*<br>
+SERVICE<br>
+SGD[node]<br>
 LICENSE
 https://www.gnu.org/licenses/gpl-3.0.tex
 
@@ -72,52 +69,44 @@ Ali3ǹ
 Alieǹ
 
 ## SGD.earth
-SGD[time]
 01-BIN-NEOLITHIC-REVOLUTION
 007-OCT-PRE-TRADE-BLOC-ERA
 10-DEC- TRADE-BLOC-ERA
 0f-HEX- POST-TRADE-BLOC-ERA
 
 ## 🐚🌀SGD[space]
-<http://sgd.space> #ff00ff <https://www.color-hex.com/color/ff00ff>
+<http://sgd.space> <https://www.color-hex.com/color/ff00ff>
+
 ## 🐚🌀SGD[earth]
-<http://sgd.earth> #fe8000 <https://www.color-hex.com/color/fe8000>
-SGD[nix] #ffff00 SGD[ylw] <https://www.color-hex.com/color/ffff00>
-<http://sgd.red> #ff0000 SGD[red] <https://www.color-hex.com/color/ff0000>
-SGD[nix] #00ffff SGD[aqua] https://www.color-hex.com/color/00ffff>
-<http://sgdm.black #ffffff SGD[1/0].off <https://www.color-hex.com/color/ffffff>
-<http://sgd.blue> #0000ff SGD[blue] <https://www.color-hex.com/color/0000ff>
-<http://sgd.green> #00ff00 SGD[green] <https://www.color-hex.com/color/00ff00>
-<http://sgd.pink> #ff00ff SGD[pink] https://www.color-hex.com/color/ff00ff>
-<http://sgdm.ly> #000000 SGD[1/0].on https://www.color-hex.com/color/000000> 
+<http://sgd.earth>
+
+SGDm[1/0] <http://sgdm.ly 
+SGDm[north] <http://sgdm.im> #860086 <https://www.color-hex.com/color/860086>
+SGDm[east] <http://sgdm.vu> #00ffff https://www.color-hex.com/color/00ffff>
+SGDm[south] <http://sgdm.yt> #fe8010 <https://www.color-hex.com/color/fe8010>
+SGDm[west] <http://sgdm.ws> #ffff00 <https://www.color-hex.com/color/ffff00>
+SGD[red] <http://sgd.red> #ff0000 <https://www.color-hex.com/color/ff0000>
+SGD[green] <http://sgd.green> #00ff00 <https://www.color-hex.com/color/00ff00>
+SGD[blue]  <http://sgd.blue> #0000ff <https://www.color-hex.com/color/0000ff>
+SGD[pink] <http://sgd.pink> #ff00ff  https://www.color-hex.com/color/ff00ff>
+SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff>
 
 ## Community and Forums
-🌀SGD[red]
-http://sgd.red
-🌀SGD[green]
-http://sgd.green
-🌀SGD[blue]
-http://sgd.blue
-🌀SGD[pink]
-http://sgd.pink
-🌀SGD[1/0]
-SGD[1]
-http://sgd.black
-ON -> PING sgd.black (15.197.142.173): 56 data bytes
-SGD[0]
-OFF -> error-404-not-found
+🌀SGD[red] <http://sgd.red>
+🌀SGD[green] <http://sgd.green>
+🌀SGD[blue] <http://sgd.blue>
+🌀SGD[pink] <http://sgd.pink>
+🌀SGD[black] <http://sgd.black>
 
-## GM Portal
-##  🐚🌀SGD[1/0]
-http://sgdm.ly distributes at random to participating ordinal servers.
-🐚SGD[north]
-http://sgdm.im
-🐚SGD[east]
-http://sgdm.vu
-🐚SGD[south]
-http://sgdm.yt
-🐚SGD[west]
-http://sgdm.ws
+##  🐚🌀SGDm[1/0]    // tunnel via compass coordinates
+SGDm[1/0] <http://sgdm.ly>    // random assigned ordinal coordinate 
+SGDm[north] <http://sgdm.im>
+SGDm[east] <http://sgdm.vu>
+SGDm[south] <http://sgdm.yt>
+SGDm[west] <http://sgdm.ws>
+
+## 🐚🌀 SGDm[nix] // teleport
+SGDm[nix] <http://sgdm.cc>    //random HEX generated coordinates
 
 ## Contributing
 For infomation about contribution email:
