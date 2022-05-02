@@ -80,33 +80,33 @@ Alieǹ
 ## 🐚🌀SGD[earth]
 <http://sgd.earth>
 
-SGDm[1/0] <http://sgdm.ly 
-SGDm[north] <http://sgdm.im> #860086 <https://www.color-hex.com/color/860086>
-SGDm[east] <http://sgdm.vu> #00ffff https://www.color-hex.com/color/00ffff>
-SGDm[south] <http://sgdm.yt> #fe8010 <https://www.color-hex.com/color/fe8010>
-SGDm[west] <http://sgdm.ws> #ffff00 <https://www.color-hex.com/color/ffff00>
-SGD[red] <http://sgd.red> #ff0000 <https://www.color-hex.com/color/ff0000>
-SGD[green] <http://sgd.green> #00ff00 <https://www.color-hex.com/color/00ff00>
-SGD[blue]  <http://sgd.blue> #0000ff <https://www.color-hex.com/color/0000ff>
-SGD[pink] <http://sgd.pink> #ff00ff  https://www.color-hex.com/color/ff00ff>
-SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff>
+SGDm[1/0] <http://sgdm.ly <br>
+SGDm[north] <http://sgdm.im> #fe8010 <https://www.color-hex.com/color/fe8010> <br>
+SGDm[east] <http://sgdm.vu> #00ffff https://www.color-hex.com/color/00ffff> <br>
+SGDm[south] <http://sgdm.yt> #860086 <https://www.color-hex.com/color/860086> <br>
+SGDm[west] <http://sgdm.ws> #ffff00 <https://www.color-hex.com/color/ffff00> <br>
+SGD[red] <http://sgd.red> #ff0000 <https://www.color-hex.com/color/ff0000> <br>
+SGD[green] <http://sgd.green> #00ff00 <https://www.color-hex.com/color/00ff00> <br>
+SGD[blue]  <http://sgd.blue> #0000ff <https://www.color-hex.com/color/0000ff> <br>
+SGD[pink] <http://sgd.pink> #ff00ff  https://www.color-hex.com/color/ff00ff> <br>
+SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff> <br>
 
 ## Community and Forums
-🌀SGD[red] <http://sgd.red>
-🌀SGD[green] <http://sgd.green>
-🌀SGD[blue] <http://sgd.blue>
-🌀SGD[pink] <http://sgd.pink>
-🌀SGD[black] <http://sgd.black>
+🌀SGD[red] <http://sgd.red> <br>
+🌀SGD[green] <http://sgd.green> <br>
+🌀SGD[blue] <http://sgd.blue> <br>
+🌀SGD[pink] <http://sgd.pink> <br>
+🌀SGD[black] <http://sgd.black> <br>
 
 ##  🐚🌀SGDm[1/0]    // tunnel via compass coordinates
-SGDm[1/0] <http://sgdm.ly>    // random assigned ordinal coordinate 
-SGDm[north] <http://sgdm.im>
-SGDm[east] <http://sgdm.vu>
-SGDm[south] <http://sgdm.yt>
-SGDm[west] <http://sgdm.ws>
+SGDm[1/0] <http://sgdm.ly>    // random assigned ordinal coordinate <br>
+SGDm[north] <http://sgdm.im> <br>
+SGDm[east] <http://sgdm.vu> <br>
+SGDm[south] <http://sgdm.yt> <br>
+SGDm[west] <http://sgdm.ws><br>
 
 ## 🐚🌀 SGDm[nix] // teleport
-SGDm[nix] <http://sgdm.cc>    //random HEX generated coordinates
+SGDm[nix] <http://sgdm.cc>    //random HEX generated coordinates <br>
 
 ## Contributing
 For infomation about contribution email:
