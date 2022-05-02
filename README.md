@@ -7,7 +7,7 @@ https://github.com/benjaminwulf/sgd-node
 https://discord.com/invite/HBbP4Zba
 
 <b>SITE</b><br>
-<b> *SHELL GAMING DOMINION* copyright 2021-07-04* <br>
+<b> *SHELL GAMING DOMINION* copyright 2021-07-04 <br>
 <br>
 <b>SERVICE</b><br>
 SGD[node]
