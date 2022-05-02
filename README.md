@@ -1,4 +1,4 @@
-# 🐚🌀 Shell Gaming Dominion Project
+# 🐚 Shell Gaming Dominion Project
 
 🌀SGD[node]
 https://github.com/benjaminwulf/sgd-node
@@ -69,16 +69,17 @@ Ali3ǹ
 Alieǹ
 
 ## SGD.earth
-01-BIN-NEOLITHIC-REVOLUTION
-007-OCT-PRE-TRADE-BLOC-ERA
-10-DEC- TRADE-BLOC-ERA
-0f-HEX- POST-TRADE-BLOC-ERA
 
-## 🐚🌀SGD[space]
-<http://sgd.space>
 
-## 🐚🌀SGD[earth]
-<http://sgd.earth>
+## 🐚🌀SGD[space] <http://sgd.space>
+Space continuum <br>
+
+## 🐚🌀SGD[earth] <http://sgd.earth>
+Numbered Systems and time eras <br>
+01-BIN-NEOLITHIC-REVOLUTION <br>
+007-OCT-PRE-TRADE-BLOC-ERA <br>
+10-DEC- TRADE-BLOC-ERA <br>
+0f-HEX- POST-TRADE-BLOC-ERA <br>
 
 SGDm[1/0] <http://sgdm.ly <br>
 SGDm[north] <http://sgdm.im> #fe8010 <https://www.color-hex.com/color/fe8010> <br>
@@ -98,7 +99,7 @@ SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff> <
 🌀SGD[pink] <http://sgd.pink> <br>
 🌀SGD[black] <http://sgd.black> <br>
 
-##  🐚🌀SGDm[1/0] tunnel via compass coordinates
+## 🌀SGDm[1/0] tunnel via compass coordinates
 Random assigned ordinal coordinate <br>
 SGDm[1/0] <http://sgdm.ly> <br>
 Compass coordinates <br>
@@ -107,7 +108,7 @@ SGDm[east] <http://sgdm.vu> <br>
 SGDm[south] <http://sgdm.yt> <br>
 SGDm[west] <http://sgdm.ws><br>
 
-## 🐚🌀 SGDm[nix] teleport
+## 🌀 SGDm[nix] teleport
 random HEX generated coordinates <br>
 SGDm[nix] <http://sgdm.cc>
 
