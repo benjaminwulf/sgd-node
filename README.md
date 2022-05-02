@@ -52,9 +52,9 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
-🌀SGD[1/0]    // Rando GM ordinal assignment and probability (SGDm[aqua].east, SGDm[ylw].west, SGDm[org]north, SGDm[pur].south)
-🌀SGD[nix]    // Random teleport via hex code
-🌀SGD[node]   // 5-color node (red, green, blue, pink, black)
+🌀SGD[1/0] Random directional ordinal
+🌀SGD[nix] Random teleport via hex code
+🌀SGD[node] 5-color firwall geographical node (red, green, blue, pink, black)
 
 
 ## Char[scheme]
