@@ -58,14 +58,15 @@ https://discord.com/invite/HBbP4Zba <br>
 
 
 ## Char[scheme]
+## base-24
 
-##base-24
 Human <br>
 Humanª <br>
 Huɰan <br>
 Huɰanª <br>
 
 ## base-32
+
 Ali3ǹ <br>
 Alieǹ <br>
 
