@@ -58,17 +58,44 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
+🐚SGD[1/0]    // ordinal clockwise
+🐚SGD[hex]    // teleport to hex based code
+
+🌀SGD[node]    // 8-color code (red, green, blue, pink, black, ffffff, aqua, ylw, org)
+ordinal
+
 ## Community and Forums
 🌀SGD[red]
-http://sgd-red.wikidot.com/
-🌀SGD[red]
-http://sgd-green.wikidot.com/
-🌀SGD[red]
-http://sgd-blue.wikidot.com/
-🌀SGD[red]
-http://sgd-pink.wikidot.com/
-🌀SGD[red]
-http://sgd-black.wikidot.com/
+http://sgd.red
+🌀SGD[green]
+http://sgd.green
+🌀SGD[blue]
+http://sgd.blue
+🌀SGD[pin]
+http://sgd.pink
+🌀SGD[1/0]
+http://sgd.black
+ON -> PING sgd.black (15.197.142.173): 56 data bytes
+OFF -> error-404-not-found
+
+## GM Portal
+##  🐚🌀SGD[1/0] //
+http://sgdm.ly distributes at random to participating ordinal servers.
+🐚SGD[north]
+http://sgdm.im
+🐚SGD[east]
+http://sgdm.vu
+🐚SGD[south]
+http://sgdm.yt
+🐚SGD[west]
+http://sgdm.ws
+
+🐚🌀SGD[hex]
+http://sgdm.cc
+
+
+🐚SGD[hex]
+http://sgdm.cc
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
