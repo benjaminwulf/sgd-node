@@ -52,9 +52,9 @@ http://linktr.ee/SGD.node
 🌀SGD[node] DISCORD:<br>
 https://discord.com/invite/HBbP4Zba <br>
 
-🌀SGD[1/0]    // Rando GM ordinal assignment and probability
-🌀SGD[hex]    // Random teleport via hex code
-🌀SGD[node]   // 8-color node (red, green, blue, pink, aqua, ylw, org)
+🌀SGD[1/0]    // Rando GM ordinal assignment and probability (SGDm[aqua].east, SGDm[ylw].west, SGDm[org]north, SGDm[pur].south)
+🌀SGD[nix]    // Random teleport via hex code
+🌀SGD[node]   // 5-color node (red, green, blue, pink, black)
 
 
 ## Char[scheme]
@@ -68,20 +68,18 @@ Huɰanª
 Ali3ǹ
 Alieǹ
 
-## SGD.earth
-
-
-## 🐚🌀SGD[space] <http://sgd.space>
+## 🌀SGD[space] <http://sgd.space>
 Space continuum <br>
 
-## 🐚🌀SGD[earth] <http://sgd.earth>
+## 🌀SGD[earth] <http://sgd.earth>
 Numbered Systems and time eras <br>
 01-BIN-NEOLITHIC-REVOLUTION <br>
 007-OCT-PRE-TRADE-BLOC-ERA <br>
 10-DEC- TRADE-BLOC-ERA <br>
 0f-HEX- POST-TRADE-BLOC-ERA <br>
 
-SGDm[1/0] <http://sgdm.ly <br>
+SGDm[nix] <http://sgdm.cc> <br>
+SGDm[1/0] <http://sgdm.ly> <br>
 SGDm[north] <http://sgdm.im> #fe8010 <https://www.color-hex.com/color/fe8010> <br>
 SGDm[east] <http://sgdm.vu> #00ffff https://www.color-hex.com/color/00ffff> <br>
 SGDm[south] <http://sgdm.yt> #860086 <https://www.color-hex.com/color/860086> <br>
