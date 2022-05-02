@@ -98,15 +98,19 @@ SGD[black] <http://sgdm.black #000000 <https://www.color-hex.com/color/ffffff> <
 🌀SGD[pink] <http://sgd.pink> <br>
 🌀SGD[black] <http://sgd.black> <br>
 
-##  🐚🌀SGDm[1/0]    // tunnel via compass coordinates
-SGDm[1/0] <http://sgdm.ly>    // random assigned ordinal coordinate <br>
+##  🐚🌀SGDm[1/0] tunnel via compass coordinates
+
+Random assigned ordinal coordinate <br><
+SGDm[1/0] <http://sgdm.ly> <br>
+Compass coordinates <br>
 SGDm[north] <http://sgdm.im> <br>
 SGDm[east] <http://sgdm.vu> <br>
 SGDm[south] <http://sgdm.yt> <br>
 SGDm[west] <http://sgdm.ws><br>
 
-## 🐚🌀 SGDm[nix] // teleport
-SGDm[nix] <http://sgdm.cc>    //random HEX generated coordinates <br>
+## 🐚🌀 SGDm[nix] teleport
+random HEX generated coordinates <br>
+SGDm[nix] <http://sgdm.cc>
 
 ## Contributing
 For infomation about contribution email:
